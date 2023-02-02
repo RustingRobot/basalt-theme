@@ -2,6 +2,7 @@
   "name": "basalt",
   "displayName": "Basalt",
   "description": "A very simple pink-blue color theme",
+  "icon": "icon.png",
   "version": "1.0.0",
   "publisher": "RustingRobot",
   "repository": {
